@@ -6,7 +6,7 @@ venv/
 .idea
 storage/
 version.api
-
+build
 # Created by .ignore support plugin (hsz.mobi)
 ### Eclipse template
 *.pydevproject

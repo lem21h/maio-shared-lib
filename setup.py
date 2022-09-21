@@ -9,7 +9,7 @@ setup(
     name="maio_aio_shared_lib",
     version="1.0",
     packages=['maio', 'maio.lib',
-              'maio.lib.config', 'maio.lib.encoders', 'maio.lib.request', 'maio.lib.services',
+              'maio.lib.configs', 'maio.lib.encoders', 'maio.lib.request', 'maio.lib.services',
               'maio.lib.session', 'maio.lib.worker'],
     install_requires=requirements,
     python_requires='>=3.9',
